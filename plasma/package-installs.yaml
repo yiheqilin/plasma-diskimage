@@ -1,0 +1,15 @@
+# kernel
+# And a few useful tools. Some are pulled
+# as dependencies but that may change so lets
+# be explicit.
+kwayland:
+xorg-x11-server-wayland:
+libwayland-server0:
+libva-wayland1:
+libgstwayland-1_0-0:
+patterns-base-enhanced_base:
+patterns-base-enhanced_base_opt:
+patterns-base-apparmor:
+patterns-base-apparmor_opt:
+patterns-kde-kde_plasma:
+plasma5-session-wayland:
