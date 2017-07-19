@@ -4,6 +4,9 @@
 # be explicit.
 kwayland:
 xorg-x11-server-wayland:
+xf86-video-qxl:
+xf86-video-cirrus:
+xf86-video-vesa:
 libwayland-server0:
 libva-wayland1:
 libgstwayland-1_0-0:
