@@ -1,0 +1,7 @@
+{
+  "family": {
+    "suse": {
+      "cloud-init": "app-emulation/cloud-init"
+    }
+  }
+}
